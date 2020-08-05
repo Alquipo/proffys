@@ -2,8 +2,10 @@ import express from "express";
 
 const app = express();
 
-app.get("/users", () => {
-  console.log("acessou rota");
+app.use(express.json);
+
+app.get("/", (request, response) => {
+  return response.json({ message: "dsfa" });
 });
 
 app.listen(3333);
