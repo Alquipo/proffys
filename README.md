@@ -171,10 +171,11 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mai
 ## 🦸 Autor
 
 <h3 align="center">
-  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/58523339?s=460&u=5bba39ceab3329cfff6c86b2d3dfdcd5f944c4c0&v=4" width="100px;" alt=""/>
-  <br />
-  <sub><b>Alquipo Neto</b></sub> 🚀
-  <br />
+  <img style="border-radius: 50%" src="https://avatars2.githubusercontent.com/u/58523339?s=460&u=5bba39ceab3329cfff6c86b2d3dfdcd5f944c4c0&v=4" width="100px;" alt=""/>
+  <br/>
+  <strong>Alquipo Neto</strong> 🚀
+  <br/>
+  <br/>
 
  <a href="https://www.linkedin.com/in/alquiponeto" alt="LinkedIn" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
