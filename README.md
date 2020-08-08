@@ -170,7 +170,7 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mai
 
 ## 🦸 Autor
 
-<h2 align="center">
+<h3 align="center">
   <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/58523339?s=460&u=5bba39ceab3329cfff6c86b2d3dfdcd5f944c4c0&v=4" width="100px;" alt=""/>
   <br />
   <sub><b>Alquipo Neto</b></sub> 🚀
@@ -192,7 +192,7 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mai
 
 Feito com ❤️ por Alquipo Neto 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alquiponeto/)
 
-</h2>
+</h3>
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
